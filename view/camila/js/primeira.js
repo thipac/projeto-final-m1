@@ -9,7 +9,7 @@ function proximaFase(){
             <p class="texto__escolha">Mas sua jornada está apenas começando. Você precisa tomar novas decisões para sua carreira:</p> 
             <div class="perguntas">
                 <p>1 - Se inscreve no curso de WebDev em paralelo a faculdade.</p>
-                <p>2 - escolha</p>
+                <p>2 - Estou na melhor faculdade do país e ela vai me dar base necessária para carreira.</p>
             </div>
             <a href="./segunda.html">Faça sua escolha</a>
         </div>
