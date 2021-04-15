@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700;900&family=Press+Start+2P&display=swap');
+
+body {
+    font-family: 'Press Start 2P', cursive;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-size: min(16px, 3vw)
+    
+}
+
+.background__img {
+    width: 100%;
+    height: 200%;
+    object-fit: cover;
+    object-position: center;
+    opacity: 0.7;
+}
+
+.abertura{
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+h1{
+    color: rgb(189, 232, 105);
+    text-shadow: 2px 2px 0 #b96e58;
+    font-size: max(3vw, 25px);
+    letter-spacing: 0.2rem; 
+    margin: 20px;
+}
+
+p{
+    color: #88594c;
+    font-size: max(1.5vw, 16px);
+    width: 50vw;
+    margin: 20px 50px;
+    line-height: 1.350rem;
+    margin: 3px;
+}
+
+.pergunta {
+    text-transform: uppercase;
+}
+
+.texto__escolha {
+    background: rgba(216, 243, 237, 70%);;
+}
+
+.personagens {
+    display: flex;
+    position: absolute;
+    align-content:center;
+    width: 80vw;
+    justify-content: space-between;
+    margin: 300px 0;
+}
+
+.personagens div:hover{
+    transform: scale(1.2);
+    text-shadow: 2px 2px 0 #b96e58;
+    
+}
+
+.personagens img{
+    max-width: max(2vw, 150px);
+    max-height: max(2vw, 150px);
+    margin-top: 10px;
+    width: 20vw;
+    border: 5px solid  #b96e58;
+    border-radius: 50%;
+}
+
+.personagens img:hover{
+    border:6px solid  rgb(189, 232, 105);
+    color: rgb(189, 232, 105) ;
+}
+
+.personagens a{
+    text-decoration: none;
+}
+.personagens h2{
+    margin-top: 40px;
+    text-transform: uppercase   ;
+    color:rgb(189, 232, 105);
+    font-size: max(2vw, 25px);
+    margin-bottom: 10px;
+    
+}
+
+footer {
+    justify-self: center;
+    background-color: rgba(216, 243, 237, 70%);;
+    margin-top:0;
+    width: 100%;
+    padding: 5.25rem 0 3.75rem 0;
+}
+
+footer h2{
+    color: rgb(189, 232, 105);
+    text-shadow: 2px 2px 0 #b96e58;
+    font-size: max(3vw, 25px);
+    letter-spacing: 0.2rem; 
+    margin: 1rem;
+    
+}
+
+footer small {
+    margin-top: 3rem;
+    padding: 10px 0;
+    color: #88594c;
+}
+
+@media screen and (max-width: 700px) {
+    
+    p{
+        width: 80vw;
+        text-align: justify;
+    }
+
+        .personagens{
+
+        position: relative;
+        margin: 10px 0;
+        flex-direction: column;
+        width: 90vw;
+    }
+
+    .personagens div {
+        margin: 20px 0;
+    }
+
+    .personagens img {
+
+        margin-top: 10px;
+        width: 50vw;
+    }
