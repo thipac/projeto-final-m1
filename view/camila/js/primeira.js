@@ -38,7 +38,7 @@ function gameover(){
 }
 
 function escolha(){
-    var mensagem = "Digite 1 - Entrar pra faculdade de Sistemas para Internet \n Digite 2 - Resolve estudar por conta própria, pois se considera uma autodidata.solve estudar por conta própria"
+    var mensagem = "Digite 1 - Entrar pra faculdade de Sistemas para Internet \n Digite 2 - Resolve estudar por conta própria."
     var escolha = prompt(mensagem)
     var certo = "1"
         if(escolha == 1 || escolha == 2){
