@@ -9,12 +9,14 @@ function proximaFase(){
             <div class="perguntas">
                 <p>1 - Você resolve continuar na emrpesa atual. </p>
                 <p>2 - Você deseja fundar uma empresa Tec. </p>
+        
             </div>
-            <a href="./final.html">Faça sua escolha</a>escolha
+             <a href="./final.html">Faça sua escolha</a>
+        </div>
         <footer>
         <h2>DevPlay!</h2>
         <small>&copy; Todos direitos reservados</small>
-         </footer>
+        </footer>
         
     `)
 }
