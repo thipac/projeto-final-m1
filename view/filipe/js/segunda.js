@@ -25,7 +25,7 @@ function gameover(){
     <img class="background__img" src="../fundo3.jpg" alt="cidade ao fundo">
     <div class = "abertura" >
         <h1> Dev Filipe</h1>
-        <p>Poxa Filpe, a documentação está toda em inglês e você não consegue entender quase nada por não dominar a lingua, acabou desanimando de aperfeiçoar seus conhecimentos e ficou focou em freelas simples onde não demandavam muito conhecimento e por conta disso não cresceu na profissão. Uma pena, seu futuro seria brilhante.</p>
+        <p>Poxa Filipe, a documentação está toda em inglês e você não consegue entender quase nada por não dominar a lingua, acabou desanimando de aperfeiçoar seus conhecimentos e ficou focou em freelas simples onde não demandavam muito conhecimento e por conta disso não cresceu na profissão. Uma pena, seu futuro seria brilhante.</p>
         <p class="texto__escolha"> Você sabe onde quer chegar!</p>
         <h3>GAME OVER</h3>   
         <a href="../../index.html">Voltar para o inicio</a>
