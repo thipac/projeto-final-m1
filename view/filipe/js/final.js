@@ -20,9 +20,9 @@ function gameover(){
     document.write(`
     <img class="background__img" src="../fundo3.jpg" alt="cidade ao fundo">
     <div class = "abertura" >
-        <h1> Dev Filipe/h1>
+        <h1> Dev Filipe</h1>
         <p>Eita Filipe, o equilibrio é fundamental, infelziemnte deixar a saúde e família de lado não é saudável e precisou deixar sua carreira de lado pra cuidar de um grave problema de saúde, que pena seu futuro seria brilhante.</p>
-        <p class="texto__escolha">/p>
+        <p class="texto__escolha"</p>
         <h3>GAME OVER</h3>   
         <a href="../../index.html">Voltar para o inicio</a>
     </div>
