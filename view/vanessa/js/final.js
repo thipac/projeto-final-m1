@@ -24,11 +24,10 @@ function gameover(){
     <div class = "abertura" >
         <h1> Dev Vanessa</h1>
         <p>Poxa Vanessa, infelizmente a tecnologia que você se espericalizou durante anos era mantida por uma grande empresa, e ela acabou se envolvendo em um processo judicial e decretou falência, complicando a manutenção dela e acabou caindo em desuso no mercado.</p>
-        <p class="texto__escolha">O mercado de tecnologia é muito dinâmico, então fique antenada ao que esta acontecendo.</p>escolha
+        <p class="texto__escolha">O mercado de tecnologia é muito dinâmico, então fique antenada ao que esta acontecendo.</p>
         <h3>GAME OVER</h3>   
         <a href="../../index.html">Voltar para o inicio</a>
     </div>
-    
     <footer>
         <h2>DevPlay!</h2>
         <small>&copy; Todos direitos reservados</small>

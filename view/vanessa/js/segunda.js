@@ -1,7 +1,7 @@
 function proximaFase(){
     document.write(` 
         <img class="background__img" src="../fundo3.jpg" alt="cidade ao fundo">
-        <div class = "abertura">
+        <div class="abertura">
        
             <h1> Dev Vanessa</h1>
             <p>Excelente escolha!!! Você chegou a tempo para sua primeira aula e descobriu que estar presente na mesma era a ultima etapa do processo seletivo.</p> 
@@ -16,14 +16,14 @@ function proximaFase(){
         <footer>
         <h2>DevPlay!</h2>
         <small>&copy; Todos direitos reservados</small>
-         </footer>
+        </footer>
         
     `)
 }
 
 function gameover(){
     document.write(`
-    <img class="background__img" sescolharc="../fundo3.jpg" alt="cidade ao fundo">
+    <img class="background__img" src="../fundo3.jpg" alt="cidade ao fundo">
     <div class = "abertura" >
         <h1> Dev Vanessa</h1>
         <p>Poxa Vanessa, infelizmente o processo seletivo ainda não tinha terminado e chegar na hora do curso era um teste de comprometimento e você acabou ficando 3 dias seguidos comemorando. Vamos ter mais foco na próxima vez?</p>
@@ -31,7 +31,6 @@ function gameover(){
         <h3>GAME OVER</h3>   
         <a href="../../index.html">Voltar para o inicio</a>
     </div>
-    
     <footer>
         <h2>DevPlay!</h2>
         <small>&copy; Todos direitos reservados</small>
@@ -53,5 +52,4 @@ function escolha(){
         alert("Digite 1 ou 2 para escolher!")
         escolha()
     }
-
 }escolha()

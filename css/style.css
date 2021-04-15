@@ -70,7 +70,7 @@ p{
 .personagens img{
     max-width: max(2vw, 150px);
     max-height: max(2vw, 150px);
-    margin-top: 10px;
+    margin-top: 20px;
     width: 20vw;
     border: 5px solid  #b96e58;
     border-radius: 50%;

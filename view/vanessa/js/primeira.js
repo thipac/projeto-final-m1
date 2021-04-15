@@ -1,8 +1,7 @@
 function proximaFase(){
     document.write(` 
         <img class="background__img" src="../fundo3.jpg" alt="cidade ao fundo">
-        <div class = "abertura">
-       
+        <div class="abertura">
             <h1> Dev Vanessa</h1>
             <p>Excelente escolha!!!</p> 
             <p class="texto__escolha">Você é escolhida entre mais de 3.000 participantes em uma longa e cansativa rodada de entrevistas e dinâmicas de grupo para fazer parte da turma que se inicia amanhã.</p>
@@ -16,7 +15,7 @@ function proximaFase(){
         <footer>
         <h2>DevPlay!</h2>
         <small>&copy; Todos direitos reservados</small>
-         </footer>
+        </footer>
         
     `)
 }
